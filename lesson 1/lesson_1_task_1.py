@@ -1,3 +1,3 @@
-myname = "Артур"
+my_name = "Артур"
 
-print (myname)
+print (my_name)
