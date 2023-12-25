@@ -39,7 +39,7 @@ def test_get_employee_by_id():
     assert get_info["lastName"] == "Testov"
 
 
-def test_сhange_employee_info():
+def test_change_employee_info():
     name = "SkyPro"
     descr = "testing"
     company = api.create_company(name, descr)
